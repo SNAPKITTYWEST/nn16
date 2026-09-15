@@ -1,3 +1,10 @@
+<!--
+  SPDX-License-Identifier: GPL-3.0-or-later
+  Copyright (c) 2026 SnapKittyWest
+  Ahmad Ali Parr / Bel Esprit D'Accord Irrevocable Trust
+  CLONE GATE: Any clone, fork, or derivative of this node
+  MUST be released under GPL-3.0-or-later. No closed-source use.
+-->
 # NN/16 — Apple II-Era Integer Neural Computing Stack
 
 NN/16 is a small, deterministic neural-network runtime reconstructed from first

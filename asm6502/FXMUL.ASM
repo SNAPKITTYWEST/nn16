@@ -1,3 +1,10 @@
+; ============================================================
+; SPDX-License-Identifier: GPL-3.0-or-later
+; Copyright (c) 2026 SnapKittyWest
+; Ahmad Ali Parr / Bel Esprit D'Accord Irrevocable Trust
+; CLONE GATE: Any clone, fork, or derivative of this node
+; MUST be released under GPL-3.0-or-later. No closed-source use.
+; ============================================================
 ; NN/16 6502 Fixed-Point Kernel
 ; FXMUL: A*B -> scale >>8 -> round half away from zero -> clip [-256,255]
 ; Entry: zp_MUL_A_LO/HI = A, zp_MUL_B_LO/HI = B

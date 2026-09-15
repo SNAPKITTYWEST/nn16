@@ -1,3 +1,10 @@
+{ ============================================================
+  SPDX-License-Identifier: GPL-3.0-or-later
+  Copyright (c) 2026 SnapKittyWest
+  Ahmad Ali Parr / Bel Esprit D'Accord Irrevocable Trust
+  CLONE GATE: Any clone, fork, or derivative of this node
+  MUST be released under GPL-3.0-or-later. No closed-source use.
+  ============================================================ }
 (* NN/16 Signed Multiplication Kernel
    Explicit integer multiplication exposing intermediate steps.
    No floating point, no external library.

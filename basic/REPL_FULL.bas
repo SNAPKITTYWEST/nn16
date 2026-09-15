@@ -1,3 +1,10 @@
+1 REM ============================================================
+2 REM SPDX-License-Identifier: GPL-3.0-or-later
+3 REM Copyright (c) 2026 SnapKittyWest
+4 REM Ahmad Ali Parr / Bel Esprit D'Accord Irrevocable Trust
+5 REM CLONE GATE: Any clone, fork, or derivative of this node
+6 REM MUST be released under GPL-3.0-or-later. No closed-source use.
+7 REM ============================================================
 100 REM =====================================================================
 110 REM Apple II Neural Network Stack — Integer BASIC REPL
 120 REM =====================================================================
