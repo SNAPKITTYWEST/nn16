@@ -1,0 +1,11 @@
+*.o
+*.obj
+*.code
+json_triton/nn16_jt
+json_triton/src/*.o
+__pycache__/
+*.pyc
+*.dsk
+build/
+.idea/
+.vscode/
